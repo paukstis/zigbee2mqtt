@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.1.2](https://github.com/Koenkk/zigbee2mqtt/compare/2.1.1...2.1.2) (2025-02-08)
+
+
+### Bug Fixes
+
+* Home Assistant: add `is_updating` attribute ([#26231](https://github.com/Koenkk/zigbee2mqtt/issues/26231)) ([1eda69a](https://github.com/Koenkk/zigbee2mqtt/commit/1eda69a50a8f92c3471acdbdc82b41055d5992f2))
+* **ignore:** update zigbee-herdsman-converters to 21.32.0 ([#26245](https://github.com/Koenkk/zigbee2mqtt/issues/26245)) ([8542b35](https://github.com/Koenkk/zigbee2mqtt/commit/8542b35706cefc87c9ec9dccb2980302ea25f100))
+* **ignore:** update zigbee-herdsman-converters to 21.33.0 ([#26258](https://github.com/Koenkk/zigbee2mqtt/issues/26258)) ([97c7485](https://github.com/Koenkk/zigbee2mqtt/commit/97c74852c95536945e33d0388dc5fcd0b132cd7e))
+
 ## [2.1.1](https://github.com/Koenkk/zigbee2mqtt/compare/2.1.0...2.1.1) (2025-02-06)
 
 
